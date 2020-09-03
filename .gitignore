@@ -1,0 +1,17 @@
+rest-service/.vscode
+rest-service/target
+rest-service/.prettierrc
+
+webclient/build
+webclient/node_modules
+webclient/coverage
+webclient/.dockerignore
+webclient/eslintignore
+webclient/eslintrc.js
+webclient/gitignore
+webclient/prettierrc
+
+
+InventoryApp/node_modules
+InventoryApp/build
+

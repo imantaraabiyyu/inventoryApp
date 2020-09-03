@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App should render correctly in "debug" mode 1`] = `
+<BrowserRouter>
+  <div>
+    <h2>
+      Welcome to React
+    </h2>
+  </div>
+  <Switch>
+    <Route
+      exact={true}
+      key="0"
+      path="/"
+      render={[Function]}
+    />
+    <Route
+      key="1"
+      path="/items/add"
+      render={[Function]}
+    />
+    <Route
+      key="2"
+      path="/items/:id"
+      render={[Function]}
+    />
+    <Route
+      key="3"
+      path="/items"
+      render={[Function]}
+    />
+    <Route
+      key="4"
+      path="/stocks"
+      render={[Function]}
+    />
+    <Route
+      key="5"
+      path="/transactions"
+      render={[Function]}
+    />
+    <Route
+      key="6"
+      path="/units"
+      render={[Function]}
+    />
+    <Route
+      key="7"
+      path="*"
+      render={[Function]}
+    />
+  </Switch>
+</BrowserRouter>
+`;
